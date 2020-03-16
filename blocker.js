@@ -1,0 +1,1 @@
+document.head.innerHTML += "\n <style>#secondary {visibility: hidden;} .videowall-endscreen {visibility: hidden;}</style>";
